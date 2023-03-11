@@ -1,2 +1,2 @@
-# thingie
-its a thing i mafr
+# adventure web port
+a port of adventure to html
